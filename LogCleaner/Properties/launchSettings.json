@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "LogCleaner": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\matt.HOMELAB\\AppData\\Local\\jellyfin\\log\\clean_test.txt"
+    }
+  }
+}
